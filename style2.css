@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.orange {
+    color: orange;
+}
+
+.p2 {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
